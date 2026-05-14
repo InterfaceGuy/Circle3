@@ -5,5 +5,12 @@
   "dreamTalk": "Circle3.png",
   "radicleId": "",
   "submodules": [],
-  "supermodules": []
+  "supermodules": [
+    {
+      "radicleId": "6f1cd915-e233-483c-b92a-6dbd0aafcac5",
+      "title": "Cylinder3",
+      "atCommit": "f5f6ffd4861aa1b7d307cde048a1810e092e139e",
+      "addedAt": 1778754538390
+    }
+  ]
 }
